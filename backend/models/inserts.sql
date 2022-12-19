@@ -1,0 +1,3 @@
+INSERT INTO sections(section_name_uz, section_name_ru, section_name_en, section_title_uz, section_title_ru, section_title_en, section_main_uz, section_main_ru, section_main_en, menu_id, filter_id) VALUES ('Page', 'Page', 'Page', 'Page', 'Page', 'Page', 'Page', 'Page', 'Page', 1, 1);
+
+INSERT INTO announcements(img, title_uz, body_uz, title_ru, body_ru, title_en, body_en, date) VALUES ('https://cdn.pixabay.com/photo/2016/02/21/18/09/iceland-1214063__340.jpg', 'title', 'title', 'title', 'title', 'title', 'title', '4-aprel');
